@@ -1,0 +1,10 @@
+body {
+    margin-top: 70px;
+    background: palevioletred;
+    color: aliceblue;
+    font-family: 'Farro', sans-serif;
+}
+
+.card {
+    background-color: rgb(199, 148, 247);
+}
