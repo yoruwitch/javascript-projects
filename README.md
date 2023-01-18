@@ -8,3 +8,4 @@
 * [Calculator](https://github.com/yoruwitch/javascript-projects/tree/main/calculator)
 * [Weight Conversor](https://github.com/yoruwitch/javascript-projects/tree/main/weight-conversor)
 * [BookList App](https://github.com/yoruwitch/javascript-projects/tree/main/booklist-app)
+* [RocketFlix](https://github.com/yoruwitch/javascript-projects/tree/main/rocketflix)
